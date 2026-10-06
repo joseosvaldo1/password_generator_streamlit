@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Local dev container configuration
+.devcontainer/
